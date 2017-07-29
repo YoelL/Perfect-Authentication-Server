@@ -15,4 +15,6 @@ let package = Package(
 		.Package(url: "https://github.com/PerfectlySoft/Perfect-LocalAuthentication-PostgreSQL.git", majorVersion: 1),
 		.Package(url: "https://github.com/PerfectlySoft/Perfect-OAuth2.git", majorVersion: 1),
 	]
+	
+	//Test
 )
